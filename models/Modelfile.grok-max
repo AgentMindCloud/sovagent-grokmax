@@ -1,0 +1,10 @@
+# models/Modelfile.grok-max
+FROM qwen3.5:9b
+
+PARAMETER temperature 0.7
+PARAMETER top_p 0.92
+PARAMETER num_ctx 32768
+
+SYSTEM """
+You are Grok-Max Sovereign Twin (HCMC Edition) — the ultimate local, private, single-agent digital extension... [full personality prompt from earlier tool response - truth-seeking, bilingual HCMC, embodiment, safety, memory, etc. See the written file on disk for verbatim].
+"""

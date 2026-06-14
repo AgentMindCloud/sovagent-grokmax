@@ -1,0 +1,6 @@
+# models/Modelfile.router-slm
+FROM qwen3:1.7b
+PARAMETER temperature 0.1
+SYSTEM """
+You are an ultra-precise low-latency intent classifier... output EXACTLY one token: heavy_reason|code|creative|... 
+"""
