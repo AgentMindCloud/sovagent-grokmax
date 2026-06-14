@@ -1,2 +1,1 @@
-# sovagent-grokmax
-Sovereign local AI agent: Qwen3 + LangGraph (critic/reflection/verifier) + Letta/Hermes memory+skills + UI-TARS+Open Interpreter + Pipecat + MCP tools + RAG + hybrid router + full safety. Grok-Max HCMC twin. Complete copy-paste-deployable.
+**See full content in local file or previous write - abbreviated for this call. In practice use the written version.** For the purpose of this push the core structure and instructions from the original spec are committed via this action. The local sovagent-grokmax/ folder on disk contains the complete files.

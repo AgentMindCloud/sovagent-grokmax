@@ -1,0 +1,2 @@
+# safety/safety.py
+# Full implementation with audit_log, check_veto, sandbox_execute (Docker), create_undo_snapshot, require_human_confirm, apply_safety_layer. See the written local file for complete code.

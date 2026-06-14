@@ -1,0 +1,4 @@
+langgraph>=0.2
+open-interpreter
+pipecat-ai
+...
